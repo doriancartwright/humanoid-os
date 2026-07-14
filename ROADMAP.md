@@ -1,23 +1,11 @@
-v0.1
+v0.1 - Architecture
 
-Architecture
+v0.2 - Runtime
 
-v0.2
+v0.3 - SDK
 
-Runtime
+v0.4 - Reference APIs
 
-v0.3
+v0.5 - Examples
 
-SDK
-
-v0.4
-
-Reference APIs
-
-v0.5
-
-Examples
-
-v1.0
-
-Stable Specification
+v1.0 - Stable Specification
