@@ -1,7 +1,3 @@
-Current Version
+Current Version - 0.1 Draft
 
-0.1 Draft
-
-Last Updated
-
-July 2026
+Last Updated - July 2026
